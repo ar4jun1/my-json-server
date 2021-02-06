@@ -1,272 +1,31 @@
-[
-  {
-    "_id": "601e31959b17d50e632d6381",
-    "index": 0,
-    "guid": "8d595fc6-ba79-4557-afe4-dccfb92ea926",
-    "isActive": false,
-    "balance": "$1,800.17",
-    "picture": "http://placehold.it/32x32",
-    "age": 40,
-    "eyeColor": "blue",
-    "name": "Carroll Gonzales",
-    "gender": "male",
-    "company": "INSURON",
-    "email": "carrollgonzales@insuron.com",
-    "phone": "+1 (995) 574-2697",
-    "address": "881 Farragut Road, Summerset, Puerto Rico, 9956",
-    "about": "Aliquip Lorem magna officia eiusmod non consequat cillum. Enim quis anim cillum irure minim id consequat laboris. Consectetur occaecat deserunt aliquip proident sint excepteur officia. Culpa dolore mollit est ad et laboris excepteur veniam in cupidatat. Voluptate non proident ex fugiat laboris nisi quis ad in sunt ut qui occaecat nostrud. Esse ad voluptate ut non mollit est qui qui. Eu qui duis anim tempor irure quis eiusmod.\r\n",
-    "registered": "2019-10-31T11:11:30 -06:-30",
-    "latitude": 36.924237,
-    "longitude": 72.602069,
-    "tags": [
-      "elit",
-      "reprehenderit",
-      "exercitation",
-      "culpa",
-      "minim",
-      "ullamco",
-      "qui"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Frieda Stafford"
-      },
-      {
-        "id": 1,
-        "name": "Shepherd Johnston"
-      },
-      {
-        "id": 2,
-        "name": "Corina Head"
-      }
-    ],
-    "greeting": "Hello, Carroll Gonzales! You have 7 unread messages.",
-    "favoriteFruit": "apple"
-  },
-  {
-    "_id": "601e319532fe6bf6c4d60bf3",
-    "index": 1,
-    "guid": "fb7ff828-b33f-47d1-b41b-364f68c7c7c8",
-    "isActive": true,
-    "balance": "$3,286.69",
-    "picture": "http://placehold.it/32x32",
-    "age": 23,
-    "eyeColor": "brown",
-    "name": "Joy Goff",
-    "gender": "female",
-    "company": "CEMENTION",
-    "email": "joygoff@cemention.com",
-    "phone": "+1 (945) 449-2729",
-    "address": "340 Bancroft Place, Klondike, Hawaii, 6097",
-    "about": "Sint non occaecat commodo ullamco nisi ut qui ea occaecat. Irure consectetur velit irure anim commodo minim sit sit non commodo ex et exercitation. Ad est ea exercitation laborum. Officia laboris eiusmod aliquip laboris aute in labore. Dolor tempor occaecat aute proident anim esse aliqua. Dolor minim sunt eu ut anim nostrud anim ex tempor. Lorem dolor aliquip nisi ad esse ad elit non exercitation non magna proident id.\r\n",
-    "registered": "2015-12-26T05:22:20 -06:-30",
-    "latitude": 24.991055,
-    "longitude": 21.704968,
-    "tags": [
-      "occaecat",
-      "est",
-      "consectetur",
-      "consequat",
-      "sit",
-      "irure",
-      "laboris"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Lenora Foley"
-      },
-      {
-        "id": 1,
-        "name": "Bender Brock"
-      },
-      {
-        "id": 2,
-        "name": "Pace Williams"
-      }
-    ],
-    "greeting": "Hello, Joy Goff! You have 5 unread messages.",
-    "favoriteFruit": "apple"
-  },
-  {
-    "_id": "601e3195acdda341a4423292",
-    "index": 2,
-    "guid": "03d3519c-7934-4fe4-a824-5123eea14c9f",
-    "isActive": false,
-    "balance": "$1,088.24",
-    "picture": "http://placehold.it/32x32",
-    "age": 33,
-    "eyeColor": "blue",
-    "name": "Knight Hutchinson",
-    "gender": "male",
-    "company": "VIRXO",
-    "email": "knighthutchinson@virxo.com",
-    "phone": "+1 (865) 596-3265",
-    "address": "364 Monument Walk, Marion, Montana, 8866",
-    "about": "Amet et commodo eu exercitation eu pariatur veniam ullamco non laboris nostrud adipisicing sunt. Nostrud dolore id cupidatat fugiat irure nulla qui non do aliqua non sit id in. Nisi exercitation ex veniam voluptate deserunt ullamco ut aliqua duis dolore elit exercitation. Nostrud aute quis nostrud labore culpa velit commodo labore eu occaecat qui consectetur in.\r\n",
-    "registered": "2017-09-27T06:28:05 -06:-30",
-    "latitude": -44.61262,
-    "longitude": 125.337959,
-    "tags": [
-      "tempor",
-      "deserunt",
-      "mollit",
-      "ullamco",
-      "veniam",
-      "reprehenderit",
-      "ea"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Rush Randolph"
-      },
-      {
-        "id": 1,
-        "name": "Zimmerman Neal"
-      },
-      {
-        "id": 2,
-        "name": "Mai Kirby"
-      }
-    ],
-    "greeting": "Hello, Knight Hutchinson! You have 9 unread messages.",
-    "favoriteFruit": "apple"
-  },
-  {
-    "_id": "601e3195c36a4a4b6ee4f5d3",
-    "index": 3,
-    "guid": "02168258-b6c2-4b46-9bec-9811bdaa52d2",
-    "isActive": false,
-    "balance": "$3,897.24",
-    "picture": "http://placehold.it/32x32",
-    "age": 35,
-    "eyeColor": "brown",
-    "name": "Carpenter Bartlett",
-    "gender": "male",
-    "company": "GEEKOSIS",
-    "email": "carpenterbartlett@geekosis.com",
-    "phone": "+1 (941) 570-3788",
-    "address": "717 Sandford Street, Orick, Arkansas, 2633",
-    "about": "Sint ipsum veniam enim esse exercitation in pariatur dolore. Eu et ex reprehenderit proident qui quis esse ad voluptate sit culpa non labore. Incididunt ut ea ea eu est dolor voluptate. Est irure consectetur enim nostrud magna minim.\r\n",
-    "registered": "2015-11-16T06:19:24 -06:-30",
-    "latitude": 82.709609,
-    "longitude": -150.950706,
-    "tags": [
-      "elit",
-      "id",
-      "eiusmod",
-      "voluptate",
-      "nulla",
-      "ullamco",
-      "labore"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Mcgee Hebert"
-      },
-      {
-        "id": 1,
-        "name": "Riddle Herrera"
-      },
-      {
-        "id": 2,
-        "name": "Banks Robbins"
-      }
-    ],
-    "greeting": "Hello, Carpenter Bartlett! You have 2 unread messages.",
-    "favoriteFruit": "apple"
-  },
-  {
-    "_id": "601e31952a19f8302903fc1e",
-    "index": 4,
-    "guid": "268718e9-8104-4306-a8c0-14e12ff2fa23",
-    "isActive": true,
-    "balance": "$1,664.53",
-    "picture": "http://placehold.it/32x32",
-    "age": 20,
-    "eyeColor": "brown",
-    "name": "Gibson Hartman",
-    "gender": "male",
-    "company": "ORBAXTER",
-    "email": "gibsonhartman@orbaxter.com",
-    "phone": "+1 (854) 554-2492",
-    "address": "834 Manhattan Avenue, Comptche, South Carolina, 6788",
-    "about": "Aute tempor consectetur dolor est esse qui deserunt nulla veniam culpa nostrud eiusmod. Proident incididunt labore sit deserunt in sint eiusmod mollit dolor aute duis irure non. Elit ea enim consectetur dolor velit sit culpa aliquip. Dolor sint nulla dolore excepteur cillum dolore consectetur mollit cupidatat. Tempor ea et labore Lorem amet.\r\n",
-    "registered": "2020-04-30T10:10:03 -06:-30",
-    "latitude": -5.112215,
-    "longitude": 1.964884,
-    "tags": [
-      "nisi",
-      "esse",
-      "ex",
-      "non",
-      "mollit",
-      "consequat",
-      "cillum"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Antoinette Kaufman"
-      },
-      {
-        "id": 1,
-        "name": "Buckner Cannon"
-      },
-      {
-        "id": 2,
-        "name": "Goff Oneal"
-      }
-    ],
-    "greeting": "Hello, Gibson Hartman! You have 1 unread messages.",
-    "favoriteFruit": "apple"
-  },
-  {
-    "_id": "601e31955714403971d1b44e",
-    "index": 5,
-    "guid": "b044454e-5b51-4584-b2cb-04163cd9727a",
-    "isActive": false,
-    "balance": "$3,015.47",
-    "picture": "http://placehold.it/32x32",
-    "age": 30,
-    "eyeColor": "brown",
-    "name": "Amie Mcneil",
-    "gender": "female",
-    "company": "ISOPOP",
-    "email": "amiemcneil@isopop.com",
-    "phone": "+1 (840) 496-3166",
-    "address": "805 Newton Street, Ruffin, Wisconsin, 2946",
-    "about": "Exercitation pariatur enim irure enim adipisicing reprehenderit. Commodo labore ullamco esse do velit non. Incididunt dolore tempor dolor in excepteur culpa eiusmod qui duis occaecat. Ut incididunt irure dolore labore exercitation mollit qui officia nulla laboris dolore ut non velit. Minim aliquip minim voluptate eu ad in pariatur ipsum elit Lorem laboris voluptate minim quis. Est eiusmod ut dolor occaecat minim anim id. Ea laboris excepteur aliqua Lorem laborum reprehenderit adipisicing non id velit culpa.\r\n",
-    "registered": "2017-12-18T05:55:48 -06:-30",
-    "latitude": -84.122708,
-    "longitude": 113.477927,
-    "tags": [
-      "mollit",
-      "commodo",
-      "ut",
-      "nostrud",
-      "anim",
-      "ad",
-      "qui"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Barr Mann"
-      },
-      {
-        "id": 1,
-        "name": "Leticia Riggs"
-      },
-      {
-        "id": 2,
-        "name": "Cecelia Perry"
-      }
-    ],
-    "greeting": "Hello, Amie Mcneil! You have 6 unread messages.",
-    "favoriteFruit": "strawberry"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
